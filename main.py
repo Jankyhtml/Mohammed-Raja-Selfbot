@@ -204,7 +204,7 @@ async def Boot(ctx):
     print('[OFFLINE] IP WAS SLAIN BY RAJA BOOTER')
 
 @JANKY.command()
-async def Doxx(ctx):.Scam
+async def Doxx(ctx):
     await ctx.message.delete()
     await ctx.send('`Doxxing Adress...`')
     await ctx.send('`Doxxing 901 Shelby Drive...`')
